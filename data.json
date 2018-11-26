@@ -1,0 +1,332 @@
+{
+    "employeeList": [
+        {
+            "id": 1,
+            "name": "Jens Brincker",
+            "position": "Developer",
+            "status": "Available",
+            "charttype": "Bar",
+            "pic": "https://us.123rf.com/450wm/gmast3r/gmast3r1710/gmast3r171002485/88771602-stock-vector-avatar-profile-icon-male-faceless-user-on-colorful-round-background-flat-vector-illustration.jpg?ver=6",
+            "labels": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December"
+            ],
+            "data": [
+                40,
+                20,
+                12,
+                39,
+                10,
+                40,
+                39,
+                80,
+                40,
+                20,
+                12,
+                11
+            ],
+            "color": "#3B3F50"
+        },
+        {
+            "id": 2,
+            "name": "Anthony Davie",
+            "position": "Designer",
+            "status": "Break",
+            "charttype": "Line",
+            "pic": "https://us.123rf.com/450wm/gmast3r/gmast3r1710/gmast3r171002485/88771602-stock-vector-avatar-profile-icon-male-faceless-user-on-colorful-round-background-flat-vector-illustration.jpg?ver=6",
+            "labels": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December"
+            ],
+            "data": [
+                40,
+                20,
+                12,
+                39,
+                10,
+                40,
+                39,
+                80,
+                40,
+                20,
+                12,
+                11
+            ],
+            "color": "#3B3F50"
+        },
+        {
+            "id": 3,
+            "name": "David Perry",
+            "position": "Manager",
+            "status": "Leave",
+            "charttype": "Pie",
+            "pic": "https://us.123rf.com/450wm/gmast3r/gmast3r1710/gmast3r171002485/88771602-stock-vector-avatar-profile-icon-male-faceless-user-on-colorful-round-background-flat-vector-illustration.jpg?ver=6",
+            "labels": [
+                "VueJs",
+                "EmberJs",
+                "ReactJs",
+                "AngularJs"
+            ],
+            "data": [
+                40,
+                20,
+                80,
+                10
+            ],
+            "color": [
+                "#41B883",
+                "#E46651",
+                "#00D8FF",
+                "#DD1B16"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Anthony Davie",
+            "position": "Tester",
+            "status": "Resigned",
+            "charttype": "HorizontalBar",
+            "pic": "https://us.123rf.com/450wm/gmast3r/gmast3r1710/gmast3r171002485/88771602-stock-vector-avatar-profile-icon-male-faceless-user-on-colorful-round-background-flat-vector-illustration.jpg?ver=6",
+            "labels": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December"
+            ],
+            "data": [
+                40,
+                20,
+                12,
+                39,
+                10,
+                40,
+                39,
+                80,
+                40,
+                20,
+                12,
+                11
+            ],
+            "color": "#3B3F50"
+        },
+        {
+            "id": 5,
+            "name": "Jens Bric",
+            "position": "Developer",
+            "status": "Available",
+            "charttype": "Bar",
+            "pic": "https://us.123rf.com/450wm/gmast3r/gmast3r1710/gmast3r171002485/88771602-stock-vector-avatar-profile-icon-male-faceless-user-on-colorful-round-background-flat-vector-illustration.jpg?ver=6",
+            "labels": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December"
+            ],
+            "data": [
+                40,
+                20,
+                12,
+                39,
+                10,
+                40,
+                39,
+                80,
+                40,
+                20,
+                12,
+                11
+            ],
+            "color": "#3B3F50"
+        },
+        {
+            "id": 6,
+            "name": "David Perry",
+            "position": "Manager",
+            "status": "Leave",
+            "charttype": "Donught",
+            "pic": "https://us.123rf.com/450wm/gmast3r/gmast3r1710/gmast3r171002485/88771602-stock-vector-avatar-profile-icon-male-faceless-user-on-colorful-round-background-flat-vector-illustration.jpg?ver=6",
+            "labels": [
+                "VueJs",
+                "EmberJs",
+                "ReactJs",
+                "AngularJs"
+            ],
+            "data": [
+                40,
+                20,
+                80,
+                10
+            ],
+            "color": [
+                "#41B883",
+                "#E46651",
+                "#00D8FF",
+                "#DD1B16"
+            ]
+        }
+    ],
+    "quotes": [
+        {
+            "id": 1,
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially",
+            "authorName": "Rishabh",
+            "isBlue": "True"
+        },
+        {
+            "id": 2,
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially",
+            "authorName": "Rishabh"
+        }
+    ],
+    "companyInfo": [
+        {
+            "id": 1,
+            "name": "Projects",
+            "circleprogress": 45,
+            "progress": 80,
+            "text": "10% increase in 28days",
+            "color": "green",
+            "progressWidth": "70%",
+            "circleColor": "rgba(210, 255, 82, 1)"
+        },
+        {
+            "id": 2,
+            "name": "Clients",
+            "circleprogress": 75,
+            "progress": 50,
+            "text": "50% increase in 28days",
+            "color": "orange",
+            "progressWidth": "50%",
+            "circleColor": "rgba(255, 175, 75, 1)"
+        },
+        {
+            "id": 3,
+            "name": "Employee",
+            "circleprogress": 55,
+            "progress": 80,
+            "text": "10% increase in 28days",
+            "color": "blue",
+            "progressWidth": "30%",
+            "circleColor": "rgba(73, 155, 234, 1)"
+        },
+        {
+            "id": 4,
+            "name": "Task",
+            "circleprogress": 45,
+            "progress": 80,
+            "text": "10% increase in 28days",
+            "color": "purple",
+            "progressWidth": "80%",
+            "circleColor": "rgba(203, 96, 179, 1)"
+        }
+    ],
+    "general_info": [
+        {
+            "id": 1,
+            "income": "$8900",
+            "heading": "Total Income",
+            "color": "#F4B15E",
+            "icon": "fa-dollar-sign",
+            "data": [
+                40,
+                20,
+                12,
+                39,
+                10,
+                40,
+                39,
+                80,
+                40,
+                20,
+                12,
+                11
+            ],
+            "labels": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December"
+            ]
+        },
+        {
+            "id": 2,
+            "income": "2800",
+            "heading": "New Users",
+            "color": "#A72B80",
+            "icon": "fa-user",
+            "data": [
+                40,
+                20,
+                12,
+                39,
+                10,
+                40,
+                39,
+                80,
+                40,
+                20,
+                12,
+                11
+            ],
+            "labels": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December"
+            ]
+        }
+    ],
+    "navNotification": [{"id":1,"comments":10,"bellNotification":15}]
+}
